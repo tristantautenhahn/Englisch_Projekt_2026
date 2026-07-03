@@ -3,8 +3,6 @@
 
 # Arduino Alvik
 ![Arduino Alvik](https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/alvik.jpg)
-<p><i>look at his innocent smile</i></p>
-
 
 # Goal for the robot
 - robot that can detect obstacles and can avoid them
@@ -21,6 +19,8 @@
 - lights to debug the turn directions, in case of obstacle
 - froze when rotated from left-center
 - sometimes froze when rotating away from center in different direction
+
+[![Alvik Problems](https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/alvik.jpg)](https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/alvik_update.mp4)
 
 # Code Snippet
 ```c++
