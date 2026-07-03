@@ -2,7 +2,7 @@
 
 
 # Arduino Alvik
-![Arduino Alvik](https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/alvik.png)
+![Arduino Alvik](https://github.com/tristantautenhahn/Englisch_Projekt_2026/blob/main/alvik.jpg)
 
 # goal for the robot: 
 - Robot that can detect obstacles and can avoid them
