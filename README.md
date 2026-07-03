@@ -1,6 +1,6 @@
 <style>
   body {
-    font-size: 22px;
+    font-size: 64px;
   }
 </style>
 
