@@ -3,8 +3,7 @@
 
 # Arduino Alvik
 ![Arduino Alvik](https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/alvik.jpg)
-<br/>
-*look at his innocent smile*
+<p><i>look at his innocent smile</i></p>
 
 
 # Goal for the robot
