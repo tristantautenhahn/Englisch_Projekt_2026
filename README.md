@@ -3,6 +3,8 @@
 
 # Arduino Alvik
 ![Arduino Alvik](https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/alvik.jpg)
+<br/>
+*look at his innocent smile*
 
 
 # Goal for the robot
@@ -12,13 +14,13 @@
 
 # Problems with (lack of) version control
 - no Github
-- online codeshare
+- online cooperation over codeshare.io
 - one member had to compile
 
 # Deadlock
 - kept getting stuck
-- lights to debug on the side of the obstacle
-- froze when rotated left-center
+- lights to debug the turn directions, in case of obstacle
+- froze when rotated from left-center
 - sometimes froze when rotating away from center in different direction
 
 # Code Snippet
@@ -84,6 +86,6 @@ inline void rotate(const float angle) {
 - improve communication with the French
 
 # Conclusion
-- it was fun
+- it was fun :)
 - problems were challenging, but part of the process
 - enjoyable experience overall
