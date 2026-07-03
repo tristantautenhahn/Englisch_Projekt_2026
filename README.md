@@ -1,5 +1,10 @@
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/README.md)
+<style>
+  body {
+    font-size: 22px;
+  }
+</style>
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/README.md)
 
 # Arduino Alvik
 ![Arduino Alvik](https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/alvik.jpg)
@@ -20,7 +25,7 @@
 - froze when rotated from left-center
 - sometimes froze when rotating away from center in different direction
 
-[![Alvik Problems](https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/alvik.jpg)](https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/alvik_update.mp4)
+!?[Alvik Problems](https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/alvik_update.mp4)
 
 # Code Snippet
 ```c++
