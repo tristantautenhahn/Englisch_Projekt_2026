@@ -5,7 +5,7 @@
 ![Arduino Alvik](https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/alvik.jpg)
 
 
-# Goal for the robot: 
+# Goal for the robot
 - robot that can detect obstacles and can avoid them
 - detecting on wich side the obstacle is
 - considered to map the surroundings
