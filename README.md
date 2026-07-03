@@ -2,21 +2,34 @@
 
 
 # Arduino Alvik
-![Arduino Alvik](https://github.com/tristantautenhahn/Englisch_Projekt_2026/blob/main/alvik.jpg)
-
-# goal for the robot: 
-- Robot that can detect obstacles and can avoid them
-- detecting on witch side the obsicale is
-- considet to map the souroundings
+![Arduino Alvik](https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/alvik.jpg)
 
 
-# problems with the versions
-- no github
+# Goal for the robot: 
+- robot that can detect obstacles and can avoid them
+- detecting on wich side the obstacle is
+- considered to map the surroundings
+
+# Problems with the versions
+- no Github
 - online codeshare
 - one member had to compile
 
-# deadlock
-- keept getting stuck
-- lights to debug on the side of the obsicle
-- froze when rotatet left-center
-- sometimes froze when rotating in different direction
+# Deadlock
+- kept getting stuck
+- lights to debug on the side of the obstacle
+- froze when rotated left-center
+- sometimes froze when rotating away from center in different direction
+
+# Code Snippet
+[INSERT IMAGE HERE]
+
+# Padlet posts
+- we uploaded updates to the Padlet
+- we explained the Time-of-Flight sensor of the Alvik
+- the french showed their robot
+
+# Reflection
+- **use version control in the future**
+- improve communication with the french
+- 
