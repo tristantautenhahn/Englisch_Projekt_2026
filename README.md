@@ -1,9 +1,10 @@
 <!--
-<style>
-  body {
-    font-size: 60px;
-  }
-</style>
+author:   Ttest eteate
+email:    LiaScript@web.de
+version:  0.0.1
+language: en
+narrator: US English Male
+link:     https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/refs/heads/main/CSS.css
 -->
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/README.md)
