@@ -1,6 +1,9 @@
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/tristantautenhahn/Englisch_Projekt_2026/main/README.md)
 # Englisch_Projekt_2026
 
+# Arduino Alvik
+![Arduino Alvik](https://github.com/tristantautenhahn/Englisch_Projekt_2026/blob/main/alvik.jpg)
+
 # goal for the robot: 
 - Robot that can detect obstacles and can avoid them
 - detecting on witch side the obsicale is
