@@ -82,4 +82,8 @@ inline void rotate(const float angle) {
 # Reflection
 - **use version control in the future**
 - improve communication with the french
-- 
+
+# Conclusion
+- it was fun
+- problems were challenging, but part of the process
+- enjoyable experience overall
