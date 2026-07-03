@@ -10,7 +10,7 @@
 - detecting on wich side the obstacle is
 - considered to map the surroundings
 
-# Problems with the versions
+# Problems with (lack of) version control
 - no Github
 - online codeshare
 - one member had to compile
@@ -77,11 +77,11 @@ inline void rotate(const float angle) {
 # Padlet posts
 - we uploaded updates to the Padlet
 - we explained the Time-of-Flight sensor of the Alvik
-- the french showed their robot
+- the French showed their robot
 
 # Reflection
 - **use version control in the future**
-- improve communication with the french
+- improve communication with the French
 
 # Conclusion
 - it was fun
