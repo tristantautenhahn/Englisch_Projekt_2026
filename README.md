@@ -22,7 +22,57 @@
 - sometimes froze when rotating away from center in different direction
 
 # Code Snippet
-[INSERT IMAGE HERE]
+```c++
+switch (obstacle_index)
+{
+  case LEFT:
+    alvik.left_led.set_color(1, 0, 0);
+    alvik.right_led.set_color(0, 0, 0);
+    Serial.print("rotating left by ");
+    Serial.print(-angle_increment);
+    rotate(-angle_increment);    // 'rotate(...)' instead of 'alvik.rotate(...)'
+    break;
+  case LEFT_CENTER:
+    alvik.left_led.set_color(1, 1, 0); 
+    alvik.right_led.set_color(0, 0, 0);
+    Serial.print("rotating left center by ");
+    Serial.print(-2.0 * angle_increment);
+    rotate(-2.0 * angle_increment);
+    break;
+  case CENTER:
+    alvik.left_led.set_color(0, 1, 0);
+    alvik.right_led.set_color(0, 1, 0);
+    Serial.print("rotating from center...");
+    rotate_away();
+    break;
+  case RIGHT_CENTER:
+    alvik.left_led.set_color(0, 0, 0);
+    alvik.right_led.set_color(0, 1, 1);
+    Serial.print("rotating right center by ");
+    Serial.print(2.0 * angle_increment);
+    rotate(2.0 * angle_increment);
+    break;
+  case RIGHT:
+    alvik.left_led.set_color(0, 0, 0);
+    alvik.right_led.set_color(0, 0, 1);
+    Serial.print("rotating right by ");
+    Serial.print(angle_increment);
+    rotate(angle_increment);
+    break;
+}
+```
+
+```c++
+/*
+  Alternative to the built-in 'rotate' function.
+  Tries to avoid deadlocks.
+*/
+inline void rotate(const float angle) {
+  alvik.drive(0.0, angle);
+  delay(1000);
+  alvik.brake();
+}
+```
 
 # Padlet posts
 - we uploaded updates to the Padlet
