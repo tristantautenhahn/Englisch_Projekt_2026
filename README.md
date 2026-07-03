@@ -7,7 +7,7 @@
 - considet to map the souroundings
 
 
-# problems with the versons
+# problems with the versions
 - no github
 - online codeshare
 - one member had to compile
